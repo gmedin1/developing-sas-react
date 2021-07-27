@@ -1,0 +1,8 @@
+.nav__nav {
+  background-color: blue;
+}
+
+.nav__option {
+  background-color: red;
+  margin: 0 1em;
+}
